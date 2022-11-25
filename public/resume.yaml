@@ -1,0 +1,154 @@
+header:
+  title: Jamarkus Welhmann
+  content: |
+    _phone_: 123 435 7890<br>
+    _email_: [jmarkwwwman@gmail.com](mailto:a@a.com)<br>
+    _location_: remote<br>
+
+
+summary: >
+  Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+  Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+  fringilla rhoncus erat. Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet.
+
+content:
+- title: Work
+  items:
+  - sidebar: |
+      **ACorp**<br>
+      Lead Engineer<br>
+      June 2019 - June 2019
+    content: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      - Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum justo eu sem varius accumsan.
+    comment: >
+      Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+      Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+      fringilla rhoncus erat. Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum
+      justo eu sem varius accumsan. Integer magna ante, mollis nec nisl ac, placerat ultricies diam. In nisi augue,
+      varius sit amet odio in, lacinia molestie nisl.
+    tags:
+    - java
+    - spring
+    - oauth
+    - kubernetes
+  - sidebar: |
+      **ACorp**<br>
+      Lead Engineer<br>
+      June 2019 - June 2019
+    content: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      - Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum justo eu sem varius accumsan.
+    comment: >
+      Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+      Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+      fringilla rhoncus erat. Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum
+      justo eu sem varius accumsan. Integer magna ante, mollis nec nisl ac, placerat ultricies diam. In nisi augue,
+      varius sit amet odio in, lacinia molestie nisl.
+    tags:
+    - java
+    - spring
+    - oauth
+    - kubernetes
+  - sidebar: |
+      **ACorp**<br>
+      Lead Engineer<br>
+      June 2019 - June 2019
+    content: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      - Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum justo eu sem varius accumsan.
+    comment: >
+      Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+      Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+      fringilla rhoncus erat. Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum
+      justo eu sem varius accumsan. Integer magna ante, mollis nec nisl ac, placerat ultricies diam. In nisi augue,
+      varius sit amet odio in, lacinia molestie nisl.
+    tags:
+    - java
+    - spring
+    - oauth
+    - kubernetes
+  - sidebar: |
+      **ACorp**<br>
+      Lead Engineer<br>
+      June 2019 - June 2019
+    content: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      - Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum justo eu sem varius accumsan.
+    comment: >
+      Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+      Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+      fringilla rhoncus erat. 
+    tags:
+    - java
+    - spring
+    - oauth
+    - kubernetes
+- title: Internships
+  items:
+  - sidebar: |
+      **ACorp**
+      Lead Engineer<br>
+      June 2019 - June 2019
+    content: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      - Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum justo eu sem varius accumsan.
+    comment: >
+      Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+      Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+      fringilla rhoncus erat. Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum
+      justo eu sem varius accumsan. Integer magna ante, mollis nec nisl ac, placerat ultricies diam. In nisi augue,
+      varius sit amet odio in, lacinia molestie nisl.
+    tags:
+    - java
+    - spring
+    - oauth
+    - kubernetes
+  - sidebar: |
+      **ACorp**<br>
+      Lead Engineer<br>
+      June 2019 - June 2019
+    content: |
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      - Aenean pellentesque magna neque, at venenatis metus rhoncus sit amet. Ut vestibulum justo eu sem varius accumsan.
+    comment: >
+      Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+      Integer fringilla vel odio sed luctus. Vestibulum vitae ultrices nisi. Cras lectus justo, cursus a neque ut,
+      fringilla rhoncus erat. 
+    tags:
+    - java
+    - spring
+    - oauth
+    - kubernetes
+
+sidebar:
+- title: Education
+  content: |
+    **MS Computer Science**
+
+    UW Vermont<br>
+    August 2015 - May 2017<br>
+    gpa - 3.7
+    <br><br>
+    **BS Computer Science**
+
+    UW Vermont<br>
+    August 2011 - May 2015<br>
+    gpa - 3.7
+- title: Coursework
+  content: |
+    Duis risus enim, eleifend ultrices feugiat eget, pretium sed urna. Morbi ac justo non ante fermentum tempus.
+    Integer fringilla vel odio sed luctus.
+- title: Technical Skills
+  content: |
+    **language**
+    - java
+    - python
+    - javascript
+
+    **Technologies**
+    - hibernate
+    - simplify
+    - nocodejs
+    - superforce
+    - zyzAxm
